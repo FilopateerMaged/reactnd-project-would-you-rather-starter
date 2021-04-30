@@ -41,7 +41,6 @@ class Login extends Component {
     const names = Object.keys(users);
     return (
       <div>
-        <p>Wellcome to the</p>
         <h2 className={classes.header}>Would You Rather? GAME !!!</h2>
         <h1>LOGIN BELOW</h1>
         <form onSubmit={this.handleSubmit}>
