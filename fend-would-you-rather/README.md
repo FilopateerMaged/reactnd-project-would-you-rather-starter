@@ -1,6 +1,8 @@
 # Instructions for installing and launching the project
 1.Clone or download the project 
+
 2.Run npm install in the project root directory to install dependencies
+
 3.Run npm start to launch the project
 # Would You Rather Project
 
