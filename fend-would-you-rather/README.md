@@ -1,7 +1,7 @@
-#Instructions for installing and launching the project
-Clone or download the project
-Run npm install in the project root directory to install dependencies
-Run npm start to launch the project
+# Instructions for installing and launching the project
+1.Clone or download the project 
+2.Run npm install in the project root directory to install dependencies
+3.Run npm start to launch the project
 # Would You Rather Project
 
 This is the starter code for the final assessment project for Udacity's React & Redux course.
